@@ -1,14 +1,15 @@
-# Beecrowd Soluções
+# Beecrowd
 
-Soluções para os problemas do site [beecrowd](https://www.beecrowd.com.br/) usando o javascript.
+_Repository used to train algorithms and programming challenges proposed by [beecrowd](https://www.beecrowd.com.br/) using JavaScript._
 
-A ideia é você tentar resolver primeiro e depois comparar com o código do [repositório](https://github.com/fernandoleonid/beecrowd), e caso tenha dificuldade acompanhe a resolução pelas [vídeo aulas](https://youtube.com/playlist?list=PLDgemkIT111D6IXfUr5CTNLWL9ouD8xfG).
+## Problems already resolved in this repository:
 
-_Lembrando que este repositório é a base para a resolução dos problemas._
-
-
-### Soluções disponíveis neste repositório:
-
-| Problema  |  Nome  |  Vídeo aula |
-| --------- | ------ | --------- |
-|  [1000](./problems/1000.js) | Hello World! | [Solução 1000](https://www.youtube.com/fernandoleonid/) |
+| Problema                   | Nome             | Beecrowd                                                        |
+| -------------------------- | ---------------- | --------------------------------------------------------------- |
+| [1000](./problems/1000.js) | Hello World!     | [link](https://www.beecrowd.com.br/judge/en/problems/view/1000) |
+| [1001](./problems/1001.js) | Extremely Basic  | [link](https://www.beecrowd.com.br/judge/en/problems/view/1000) |
+| [1002](./problems/1002.js) | Area of a Circle | [link](https://www.beecrowd.com.br/judge/en/problems/view/1000) |
+| [1003](./problems/1003.js) | Simple Sum       | [link](https://www.beecrowd.com.br/judge/en/problems/view/1000) |
+| [1004](./problems/1004.js) | Simple Product   | [link](https://www.beecrowd.com.br/judge/en/problems/view/1000) |
+| [1005](./problems/1005.js) | Average 1        | [link](https://www.beecrowd.com.br/judge/en/problems/view/1000) |
+| [1006](./problems/1006.js) | Average 2        | [link](https://www.beecrowd.com.br/judge/en/problems/view/1000) |
