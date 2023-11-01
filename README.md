@@ -21,3 +21,4 @@ _Repository used to train algorithms and programming challenges proposed by [bee
 | 1010 - Simple Calculate  | [![](./img/js-icon.svg)](./problems/1010.js) | [<img src="./img/beecrowd.png" alt="drawing" width="110"/>](https://www.beecrowd.com.br/judge/en/problems/view/1010) |
 | 1011 - Sphere            | [![](./img/js-icon.svg)](./problems/1011.js) | [<img src="./img/beecrowd.png" alt="drawing" width="110"/>](https://www.beecrowd.com.br/judge/en/problems/view/1011) |
 | 1012 - Area              | [![](./img/js-icon.svg)](./problems/1012.js) | [<img src="./img/beecrowd.png" alt="drawing" width="110"/>](https://www.beecrowd.com.br/judge/en/problems/view/1012) |
+| 1013 - The Greatest      | [![](./img/js-icon.svg)](./problems/1013.js) | [<img src="./img/beecrowd.png" alt="drawing" width="110"/>](https://www.beecrowd.com.br/judge/en/problems/view/1013) |
