@@ -19,3 +19,4 @@ _Repository used to train algorithms and programming challenges proposed by [bee
 | 1008 - Salary            | [![](./img/js-icon.svg)](./problems/1008.js) | [<img src="./img/beecrowd.png" alt="drawing" width="110"/>](https://www.beecrowd.com.br/judge/en/problems/view/1008) |
 | 1009 - Salary with Bonus | [![](./img/js-icon.svg)](./problems/1009.js) | [<img src="./img/beecrowd.png" alt="drawing" width="110"/>](https://www.beecrowd.com.br/judge/en/problems/view/1009) |
 | 1010 - Simple Calculate  | [![](./img/js-icon.svg)](./problems/1010.js) | [<img src="./img/beecrowd.png" alt="drawing" width="110"/>](https://www.beecrowd.com.br/judge/en/problems/view/1010) |
+| 1011 - Sphere            | [![](./img/js-icon.svg)](./problems/1011.js) | [<img src="./img/beecrowd.png" alt="drawing" width="110"/>](https://www.beecrowd.com.br/judge/en/problems/view/1011) |
