@@ -29,3 +29,4 @@ _Repository used to train algorithms and programming challenges proposed by [bee
 | 1018 - Banknotes                   | [![](./img/js-icon.svg)](./problems/1018.js) | [<img src="./img/beecrowd.png" alt="drawing" width="110"/>](https://www.beecrowd.com.br/judge/en/problems/view/1018) |
 | 1019 - Time Conversion             | [![](./img/js-icon.svg)](./problems/1019.js) | [<img src="./img/beecrowd.png" alt="drawing" width="110"/>](https://www.beecrowd.com.br/judge/en/problems/view/1019) |
 | 1020 - Age in Days                 | [![](./img/js-icon.svg)](./problems/1020.js) | [<img src="./img/beecrowd.png" alt="drawing" width="110"/>](https://www.beecrowd.com.br/judge/en/problems/view/1020) |
+| 1021 - Banknotes and Coins         | [![](./img/js-icon.svg)](./problems/1021.js) | [<img src="./img/beecrowd.png" alt="drawing" width="110"/>](https://www.beecrowd.com.br/judge/en/problems/view/1021) |
