@@ -16,3 +16,4 @@ _Repository used to train algorithms and programming challenges proposed by [bee
 | 1005 - Average 1        | [![](./img/js-icon.svg)](./problems/1005.js) | [<img src="./img/beecrowd.png" alt="drawing" width="110"/>](https://www.beecrowd.com.br/judge/en/problems/view/1005) |
 | 1006 - Average 2        | [![](./img/js-icon.svg)](./problems/1006.js) | [<img src="./img/beecrowd.png" alt="drawing" width="110"/>](https://www.beecrowd.com.br/judge/en/problems/view/1006) |
 | 1007 - Difference       | [![](./img/js-icon.svg)](./problems/1007.js) | [<img src="./img/beecrowd.png" alt="drawing" width="110"/>](https://www.beecrowd.com.br/judge/en/problems/view/1007) |
+| 1008 - Salary           | [![](./img/js-icon.svg)](./problems/1008.js) | [<img src="./img/beecrowd.png" alt="drawing" width="110"/>](https://www.beecrowd.com.br/judge/en/problems/view/1008) |
