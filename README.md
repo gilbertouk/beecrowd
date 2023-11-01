@@ -25,3 +25,4 @@ _Repository used to train algorithms and programming challenges proposed by [bee
 | 1014 - Consumption                 | [![](./img/js-icon.svg)](./problems/1014.js) | [<img src="./img/beecrowd.png" alt="drawing" width="110"/>](https://www.beecrowd.com.br/judge/en/problems/view/1014) |
 | 1015 - Distance Between Two Points | [![](./img/js-icon.svg)](./problems/1015.js) | [<img src="./img/beecrowd.png" alt="drawing" width="110"/>](https://www.beecrowd.com.br/judge/en/problems/view/1015) |
 | 1016 - Distance                    | [![](./img/js-icon.svg)](./problems/1016.js) | [<img src="./img/beecrowd.png" alt="drawing" width="110"/>](https://www.beecrowd.com.br/judge/en/problems/view/1016) |
+| 1017 - Fuel Spent                  | [![](./img/js-icon.svg)](./problems/1017.js) | [<img src="./img/beecrowd.png" alt="drawing" width="110"/>](https://www.beecrowd.com.br/judge/en/problems/view/1017) |
