@@ -32,3 +32,4 @@ _Repository used to train algorithms and programming challenges proposed by [bee
 | 1021 - Banknotes and Coins         | [![](./img/js-icon.svg)](./problems/1021.js) | [<img src="./img/beecrowd.png" alt="drawing" width="110"/>](https://judge.beecrowd.com/en/problems/view/1021) |
 | 1035 - Selection Test 1            | [![](./img/js-icon.svg)](./problems/1035.js) | [<img src="./img/beecrowd.png" alt="drawing" width="110"/>](https://judge.beecrowd.com/en/problems/view/1035) |
 | 1036 - Bhaskara's Formula          | [![](./img/js-icon.svg)](./problems/1036.js) | [<img src="./img/beecrowd.png" alt="drawing" width="110"/>](https://judge.beecrowd.com/en/problems/view/1036) |
+| 1037 - Interval                    | [![](./img/js-icon.svg)](./problems/1037.js) | [<img src="./img/beecrowd.png" alt="drawing" width="110"/>](https://judge.beecrowd.com/en/problems/view/1037) |
