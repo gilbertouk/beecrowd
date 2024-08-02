@@ -1,9 +1,3 @@
-/*
-
-
-
-*/
-
-"use strict";
+'use strict';
 
 export function problem(lines) {}
