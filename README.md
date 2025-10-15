@@ -35,5 +35,6 @@ _Repository used to train algorithms and programming challenges proposed by [bee
 | beecrowd 1037 | [![](./img/js-icon.svg)](./problems/1037.js) | [<img src="./img/beecrowd.png" alt="drawing" width="110"/>](https://judge.beecrowd.com/en/problems/view/1037) |
 | beecrowd 1038 | [![](./img/js-icon.svg)](./problems/1038.js) | [<img src="./img/beecrowd.png" alt="drawing" width="110"/>](https://judge.beecrowd.com/en/problems/view/1038) |
 | beecrowd 1040 | [![](./img/js-icon.svg)](./problems/1040.js) | [<img src="./img/beecrowd.png" alt="drawing" width="110"/>](https://judge.beecrowd.com/en/problems/view/1040) |
-| beecrowd 1041 | [![](./img/js-icon.svg)](./problems/1041.js) | [<img src="./img/beecrowd.png" alt="drawing" width="110"/>](https://judge.beecrowd.com/pt/problems/view/1041) |
-| beecrowd 1042 | [![](./img/js-icon.svg)](./problems/1042.js) | [<img src="./img/beecrowd.png" alt="drawing" width="110"/>](https://judge.beecrowd.com/pt/problems/view/1042) |
+| beecrowd 1041 | [![](./img/js-icon.svg)](./problems/1041.js) | [<img src="./img/beecrowd.png" alt="drawing" width="110"/>](https://judge.beecrowd.com/en/problems/view/1041) |
+| beecrowd 1042 | [![](./img/js-icon.svg)](./problems/1042.js) | [<img src="./img/beecrowd.png" alt="drawing" width="110"/>](https://judge.beecrowd.com/en/problems/view/1042) |
+| beecrowd 1043 | [![](./img/js-icon.svg)](./problems/1043.js) | [<img src="./img/beecrowd.png" alt="drawing" width="110"/>](https://judge.beecrowd.com/en/problems/view/1043) |
