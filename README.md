@@ -38,3 +38,4 @@ _Repository used to train algorithms and programming challenges proposed by [bee
 | beecrowd 1041 | [![](./img/js-icon.svg)](./problems/1041.js) | [<img src="./img/beecrowd.png" alt="drawing" width="110"/>](https://judge.beecrowd.com/en/problems/view/1041) |
 | beecrowd 1042 | [![](./img/js-icon.svg)](./problems/1042.js) | [<img src="./img/beecrowd.png" alt="drawing" width="110"/>](https://judge.beecrowd.com/en/problems/view/1042) |
 | beecrowd 1043 | [![](./img/js-icon.svg)](./problems/1043.js) | [<img src="./img/beecrowd.png" alt="drawing" width="110"/>](https://judge.beecrowd.com/en/problems/view/1043) |
+| beecrowd 1044 | [![](./img/js-icon.svg)](./problems/1044.js) | [<img src="./img/beecrowd.png" alt="drawing" width="110"/>](https://judge.beecrowd.com/en/problems/view/1044) |
